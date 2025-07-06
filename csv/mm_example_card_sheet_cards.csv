@@ -1,9 +1,11 @@
 ﻿Nickname,Name,Copies,Attack,Defense,Card Type,Category,Text,Card Art
-Max,Max,3,1,1,Action,Emperor,"Slippery Slide: Play this card to make all opponents' penguins slip and slide, causing them to shuffle to random players.",Fantasy Characters/!a!Tex_Dwarf_warrior_male_bg.webp
-Rob,Rob,3,1,1,Trap,Adélie,"Penguin Parade: Swap one of your penguins with another player's penguin, but only if you both do a silly penguin dance together!",Fantasy Cards/!a!FantasyCardsPack_007.webp
-Danny,Danny,2,2,2,Passive,King,"Fish Frenzy: All penguins go crazy for fish! Players must shout ""Fish!"" and grab the nearest card before it gets stolen.",Fantasy Cards/!a!FantasyCardsPack_006.webp
+Max,Max,1,1,1,Action,Emperor,"Slippery Slide: Play this card to make all opponents' penguins slip and slide, causing them to shuffle to random players.",Fantasy Characters/!a!Tex_Dwarf_warrior_male_bg.webp
+Rob,Rob,2,1,1,Trap,Adélie,"Penguin Parade: Swap one of your penguins with another player's penguin, but only if you both do a silly penguin dance together!",Fantasy Cards/!a!FantasyCardsPack_007.webp
+Danny,Danny,1,2,2,Passive,King,"Fish Frenzy: All penguins go crazy for fish! Players must shout ""Fish!"" and grab the nearest card before it gets stolen.",Fantasy Cards/!a!FantasyCardsPack_006.webp
 Evan,Evan,1,3,3,Action,Galápagos,"Penguin Teleport: Send a penguin on a magical journey to another player's collection. Abracadabra, it's theirs now!",Fantasy Cards/!a!FantasyCardsPack_009.webp
-Thorin,Thorin,2,3,1,Action,Emperor,Mighty Roar: All players must freeze in place until someone laughs.,Fantasy Cards/!a!FantasyCardsPack_019.webp
-Lyra,Lyra,1,2,3,Passive,King,Moonlit Mirage: Swap a card with any player under the cover of darkness.,Fantasy Cards/!a!FantasyCardsPack_022.webp
-Galen,Galen,3,1,2,Trap,Adélie,Enchanted Shield: Block the next action card played against you.,Fantasy Cards/!a!FantasyCardsPack_025.webp
-Seraphina,Seraphina,2,2,2,Passive,Galápagos,Wings of Wind: Move any penguin to a new location of your choice.,Fantasy Cards/!a!FantasyCardsPack_026.webp
+Nikki,Nikki,2,5,4,Action,Emperor,Zuko Here!,Fantasy Cards/!a!FantasyCardsPack_035.webp
+Thalorin,Thalorin,1,4,2,Action,King,Dragon’s Roar: Unleash a mighty roar to force all opponents to discard their highest attack card.,Fantasy Cards/!a!FantasyCardsPack_019.webp
+Elyndra,Elyndra,2,2,5,Trap,Emperor,Mystic Veil: Prevent the next attack against you by shrouding your penguins in magical mist.,Fantasy Cards/!a!FantasyCardsPack_022.webp
+Bramblethorn,Bramblethorn,1,3,3,Passive,Galápagos,Forest’s Embrace: All players must swap one card with the player to their left as the enchanted woods shift.,Fantasy Cards/!a!FantasyCardsPack_025.webp
+Sir Galdric,Sir Galdric,1,5,4,Action,Adélie,Knight’s Valor: Double your defense for one round as your penguin dons shining armor.,Fantasy Cards/!a!FantasyCardsPack_026.webp
+Morgwyn,Morgwyn,2,1,6,Trap,King,Shadow Bind: Choose an opponent; they cannot play action cards on their next turn.,Fantasy Cards/!a!FantasyCardsPack_032.webp
