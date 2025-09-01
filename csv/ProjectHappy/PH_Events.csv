@@ -1,23 +1,23 @@
 ﻿Nickname,Name,Attack,Attack Modifier,Level,Attack Util,Attack Element Util,Attack Modifier Util,Card Type,Category,Value,Level Util,Lore,Skill Description,Win,Lose,Copies,Card Art,Value Art,Win Art,Lose Art,Suite
-Raging Fire,Raging Fire,,{:+},,0,,,Event,,,,"The summer heat roars, spread fire","Fire spreads in the ""Deep Forest"" if no fire, randomly place fire. Otherwise, fire tokens expand 1 hex adjacent",,,1,,null,null,null,Event
-City Scoundrel Afoot,City Scoundrel Afoot,,{:+},,,,,Event,,,,Where's the scoundrel!,Anyone in the city region draws an Encounters card and has a -3 roll,,,1,,null,null,null,
-Festival of Lights,Festival of Lights,,{:+},,,,,Event,,,,The city is ablaze with lanterns and music.,All players in the city region gain 1 Gold and draw 1 card.,,,,,null,null,null,City Encounter
-Forest Ambush,Forest Ambush,,{:+},,,,,Event,,,,"Bandits lurk among the trees, waiting for travelers.",All players in the forest region must discard 1 Gold or lose 1 Life.,,,,,null,null,null,Forest Encounter
-Market Day,Market Day,,{:+},,,,,Event,,,,Merchants gather to trade rare goods.,All players may buy 1 item for 1 Gold less than normal price.,,,,,null,null,null,City Encounter
-Mysterious Fog,Mysterious Fog,,{:+},,,,,Event,,,,"A thick fog rolls in, obscuring vision.",All movement is reduced by 1 space this turn.,,,,,null,null,null,Forest Encounter
-Wandering Minstrel,Wandering Minstrel,,{:+},,,,,Event,,,,A cheerful bard sings tales of heroism.,All players gain 1 Lore or draw 1 Spell card.,,,,,null,null,null,City Encounter
-Sudden Downpour,Sudden Downpour,,{:+},,,,,Event,,,,"Rain drenches the land, making travel difficult.",All players must skip their next movement phase unless they have shelter.,,,,,null,null,null,Forest Encounter
-Lost Child,Lost Child,,{:+},,,,,Event,,,,A child is lost in the city streets.,The first player to reach the city gains 2 Gold as a reward.,,,,,null,null,null,City Encounter
-Ancient Ruins,Ancient Ruins,,{:+},,,,,Event,,,,Crumbling ruins offer hidden secrets.,"All players may search for treasure: roll 1 die. 1-2) Nothing, 3-4) Gain 1 Gold, 5-6) Gain 1 Magic Item.",,,,,null,null,null,Forest Encounter
-Thieves' Guild,Thieves' Guild,,{:+},,,,,Event,,,,The guild is active tonight.,All players must discard 1 Gold or 1 Item if in the city region.,,,,,null,null,null,City Encounter
-Forest Fire,Forest Fire,,{:+},,,,,Event,,,,Flames spread quickly through the woods.,All players in the forest region lose 1 Life unless they have water or magic.,,,,,null,null,null,Forest Encounter
-Royal Decree,Royal Decree,,{:+},,,,,Event,,,,The king issues a new law.,All players must pay 1 Gold to the treasury or lose 1 turn.,,,,,null,null,null,City Encounter
-Witch's Curse,Witch's Curse,,{:+},,,,,Event,,,,A witch curses the land.,"All players must roll 1 die. On a 1, gain a Curse card.",,,,,null,null,null,Forest Encounter
-Traveling Healer,Traveling Healer,,{:+},,,,,Event,,,,A healer offers aid to the wounded.,All players may heal 1 Life or remove 1 Curse.,,,,,null,null,null,City Encounter
-Midsummer Feast,Midsummer Feast,,{:+},,,,,Event,,,,A grand feast is held in the city square.,All players in the city region gain 1 Life and 1 Gold.,,,,,null,null,null,City Encounter
-Haunted Night,Haunted Night,,{:+},,,,,Event,,,,"Ghosts roam the land, seeking vengeance.","All players must roll 1 die. On a 1-2, lose 1 Life.",,,,,null,null,null,Forest Encounter
-Treasure Map,Treasure Map,,{:+},,,,,Event,,,,A map to hidden riches is found.,The first player to reach the forest gains 2 Gold and 1 Item.,,,,,null,null,null,Forest Encounter
-Broken Bridge,Broken Bridge,,{:+},,,,,Event,,,,A key bridge is out of commission.,No player may cross rivers this turn.,,,,,null,null,null,Forest Encounter
-Festival of Masks,Festival of Masks,,{:+},,,,,Event,,,,A masquerade fills the city with intrigue.,All players in the city region may swap 1 card with another player.,,,,,null,null,null,City Encounter
-Moonlit Ritual,Moonlit Ritual,,{:+},,,,,Event,,,,A secret ceremony is held in the woods.,All players in the forest region may draw 1 Spell card.,,,,,null,null,null,Forest Encounter
-Sudden Eclipse,Sudden Eclipse,,{:+},,,,,Event,,,,The sun vanishes behind the moon.,All players lose 1 turn as darkness falls across the land.,,,,,null,null,null,Forest Encounter
+Raging Fire,Raging Fire,,,,0,,,Event,,,,"The summer heat roars, spread fire","Fire spreads in the ""Deep Forest"" if no fire, randomly place fire. Otherwise, fire tokens expand 1 hex adjacent",,,1,,null,null,null,Event
+City Scoundrel Afoot,City Scoundrel Afoot,,,,,,,Event,,,,Where's the scoundrel!,Anyone in the city region draws an Encounters card and has a -3 roll,,,1,,null,null,null,
+Festival of Lights,Festival of Lights,,,,,,,Event,,,,The city is ablaze with lanterns and music.,All players in the city region gain 1 Gold and draw 1 card.,,,,,null,null,null,City Encounter
+Forest Ambush,Forest Ambush,,,,,,,Event,,,,"Bandits lurk among the trees, waiting for travelers.",All players in the forest region must discard 1 Gold or lose 1 Life.,,,,,null,null,null,Forest Encounter
+Market Day,Market Day,,,,,,,Event,,,,Merchants gather to trade rare goods.,All players may buy 1 item for 1 Gold less than normal price.,,,,,null,null,null,City Encounter
+Mysterious Fog,Mysterious Fog,,,,,,,Event,,,,"A thick fog rolls in, obscuring vision.",All movement is reduced by 1 space this turn.,,,,,null,null,null,Forest Encounter
+Wandering Minstrel,Wandering Minstrel,,,,,,,Event,,,,A cheerful bard sings tales of heroism.,All players gain 1 Lore or draw 1 Spell card.,,,,,null,null,null,City Encounter
+Sudden Downpour,Sudden Downpour,,,,,,,Event,,,,"Rain drenches the land, making travel difficult.",All players must skip their next movement phase unless they have shelter.,,,,,null,null,null,Forest Encounter
+Lost Child,Lost Child,,,,,,,Event,,,,A child is lost in the city streets.,The first player to reach the city gains 2 Gold as a reward.,,,,,null,null,null,City Encounter
+Ancient Ruins,Ancient Ruins,,,,,,,Event,,,,Crumbling ruins offer hidden secrets.,"All players may search for treasure: roll 1 die. 1-2) Nothing, 3-4) Gain 1 Gold, 5-6) Gain 1 Magic Item.",,,,,null,null,null,Forest Encounter
+Thieves' Guild,Thieves' Guild,,,,,,,Event,,,,The guild is active tonight.,All players must discard 1 Gold or 1 Item if in the city region.,,,,,null,null,null,City Encounter
+Forest Fire,Forest Fire,,,,,,,Event,,,,Flames spread quickly through the woods.,All players in the forest region lose 1 Life unless they have water or magic.,,,,,null,null,null,Forest Encounter
+Royal Decree,Royal Decree,,,,,,,Event,,,,The king issues a new law.,All players must pay 1 Gold to the treasury or lose 1 turn.,,,,,null,null,null,City Encounter
+Witch's Curse,Witch's Curse,,,,,,,Event,,,,A witch curses the land.,"All players must roll 1 die. On a 1, gain a Curse card.",,,,,null,null,null,Forest Encounter
+Traveling Healer,Traveling Healer,,,,,,,Event,,,,A healer offers aid to the wounded.,All players may heal 1 Life or remove 1 Curse.,,,,,null,null,null,City Encounter
+Midsummer Feast,Midsummer Feast,,,,,,,Event,,,,A grand feast is held in the city square.,All players in the city region gain 1 Life and 1 Gold.,,,,,null,null,null,City Encounter
+Haunted Night,Haunted Night,,,,,,,Event,,,,"Ghosts roam the land, seeking vengeance.","All players must roll 1 die. On a 1-2, lose 1 Life.",,,,,null,null,null,Forest Encounter
+Treasure Map,Treasure Map,,,,,,,Event,,,,A map to hidden riches is found.,The first player to reach the forest gains 2 Gold and 1 Item.,,,,,null,null,null,Forest Encounter
+Broken Bridge,Broken Bridge,,,,,,,Event,,,,A key bridge is out of commission.,No player may cross rivers this turn.,,,,,null,null,null,Forest Encounter
+Festival of Masks,Festival of Masks,,,,,,,Event,,,,A masquerade fills the city with intrigue.,All players in the city region may swap 1 card with another player.,,,,,null,null,null,City Encounter
+Moonlit Ritual,Moonlit Ritual,,,,,,,Event,,,,A secret ceremony is held in the woods.,All players in the forest region may draw 1 Spell card.,,,,,null,null,null,Forest Encounter
+Sudden Eclipse,Sudden Eclipse,,,,,,,Event,,,,The sun vanishes behind the moon.,All players lose 1 turn as darkness falls across the land.,,,,,null,null,null,Forest Encounter
